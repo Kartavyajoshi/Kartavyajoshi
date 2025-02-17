@@ -26,6 +26,7 @@ I am a final-year Computer Science and Engineering student specializing in **cyb
 Expected Graduation: May 2025  
 **CPI**: 9.61  
 (Two-time score 10/10 SPI in semester 2 & 7)
+(GATE QUALIFIED)
 
 ---
 

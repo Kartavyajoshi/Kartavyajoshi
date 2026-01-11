@@ -1,100 +1,108 @@
-<!-- Animated Typing Header -->
+<!-- ===================== CYBER HEADER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer+in+Progress;SOC+%7C+VAPT+%7C+OT+Security;Cyber+Resilience+%7C+Blue+Team+Focused;GATE+Qualified+%7C+ISC%C2%B2+Certified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=00FFAA&center=true&vCenter=true&width=1000&lines=Defending+Systems+%7C+Securing+Future;SOC+Analyst+in+Progress;VAPT+(Web)+%7C+OT+%2F+ICS+Security;Cyber+Resilience+%7C+Blue+Team;GATE+Qualified+%7C+ISC%C2%B2+Certified" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=green"/>
+  <img src="https://img.shields.io/badge/SOC-0D1117?style=for-the-badge&logo=splunk&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/VAPT-0D1117?style=for-the-badge&logo=burpsuite&logoColor=red"/>
+  <img src="https://img.shields.io/badge/OT%20Security-0D1117?style=for-the-badge&logo=siemens&logoColor=cyan"/>
 </p>
 
 ---
 
-# 👋 Hi, I'm Kartavya Joshi
+# 🛡 Kartavya Joshi
 
-🎓 **M.Tech Student | Cybersecurity & Cyber Resilience Specialist**  
-🔐 **SOC • VAPT (Web) • OT/ICS Security • Blue Team Enthusiast**  
+🎓 **M.Tech Cybersecurity Student | Cyber Resilience Intern**  
+🔐 **SOC • VAPT (Web) • OT/ICS Security • Blue Team Specialist**  
 🏅 **GATE Qualified | ISC² Certified**
 
-I am a **cybersecurity-focused engineer** with strong academic excellence and practical exposure to **SOC operations, web application security testing (VAPT), cyber resilience, and secure system design**. I am deeply interested in **defensive security, monitoring, threat analysis, and protecting critical infrastructure**.
+> *“Security is not a product, but a process.”*
+
+I am a **cybersecurity-driven engineer** focused on **defensive security, monitoring, threat detection, and resilience engineering**. My goal is to **detect, defend, and strengthen systems** across **IT, OT, and emerging AI-driven environments**.
 
 ---
 
-## 📍 Professional Details
+## 📍 Professional Snapshot
 
-- 📍 **Location**: Ahmedabad, Gujarat, India  
+- 📌 **Location**: Ahmedabad, Gujarat, India  
 - 📧 **Email**: [joshi.kartavyaa@gmail.com](mailto:joshi.kartavyaa@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/kartavyajoshi](https://www.linkedin.com/in/kartavyajoshi)  
 - 🧑‍💻 **GitHub**: [github.com/Kartavyajoshi](https://github.com/Kartavyajoshi)
 
 ---
 
-## 🧠 Cybersecurity Profile Summary
+## 🧠 Cyber Identity
 
-- 🔐 SOC monitoring, alert analysis & incident triage exposure  
-- 🧪 Web Application **VAPT (OWASP Top 10)** knowledge  
-- 🏭 Foundational understanding of **OT / ICS security & SCADA risks**  
-- 🛡 Cyber resilience & defensive security mindset  
-- 📊 Strong fundamentals in **OS, Networks, Cryptography & Secure Coding**
+🟢 **SOC-Ready Mindset** – Monitoring, alert triage & response  
+🟠 **VAPT (Web)** – OWASP Top 10, vulnerability analysis  
+🔵 **OT / ICS Security** – Safety-critical & availability-first defense  
+🟣 **Cyber Resilience** – Prepare • Detect • Respond • Recover  
+⚙️ **Secure Development** – Code with security in mind  
 
 ---
 
-## 🎓 Education
+## 🎓 Academic Journey
 
 ### 🏫 National Forensic Sciences University (NFSU)
-🎓 **Master of Technology (M.Tech)**  
-📌 *Cybersecurity / Cyber Resilience*  
-📅 **Currently Pursuing**
+🎓 **M.Tech – Cybersecurity / Cyber Resilience** *(Ongoing)*
 
-- SOC concepts, cyber defense strategies & resilience engineering  
-- Incident response lifecycle & threat modeling exposure  
+- SOC operations & incident handling  
+- Threat modeling & defensive strategies  
+- Cyber resilience frameworks  
+- Security in critical infrastructure  
 
 ---
 
 ### 🏫 New LJ Institute of Engineering and Technology
-🎓 **B.Tech – Computer Science & Engineering**  
-📅 **Graduated: May 2025**
+🎓 **B.Tech – Computer Science & Engineering**
 
 - 📊 **CPI**: **9.61**
 - 🏆 **SPI 10/10** (Semester 2 & 7)
 - ✅ **GATE Qualified**
-- Core strengths: **OS, CN, DBMS, Cryptography, DSA**
+- Core domains: **OS | CN | Cryptography | DBMS | DSA**
 
 ---
 
-## 🛡 Cybersecurity Skills
+## 🛡 Cybersecurity Skill Matrix
 
 ### 🔵 SOC (Security Operations Center)
-- Log Monitoring & Analysis  
+- Log Monitoring & Correlation  
 - Alert Triage & Escalation  
+- Incident Detection Lifecycle  
 - SIEM Concepts (Foundational)  
-- Incident Detection & Response Flow  
-- Blue Team Security Operations  
+- Blue Team Operations  
 
 ---
 
 ### 🧪 VAPT – Web Applications
-- OWASP Top 10 Vulnerabilities  
-- Web Reconnaissance  
+- OWASP Top 10  
+- Web Recon & Enumeration  
 - Authentication & Session Testing  
-- Input Validation & Access Control  
-- Risk Analysis & Reporting  
+- Access Control Validation  
+- Risk Assessment & Reporting  
 
 ---
 
-### 🏭 OT / ICS Security (Foundational)
+### 🏭 OT / ICS Security
 - ICS & SCADA Architecture Awareness  
-- OT vs IT Security Differences  
+- OT vs IT Security Models  
 - Industrial Threat Landscape  
-- Availability & Safety-Centric Security  
-- Introductory Industrial Protocol Knowledge  
+- Availability & Safety-Driven Defense  
+- Introductory Industrial Protocol Concepts  
 
 ---
 
-### 🔐 Core Security Knowledge
-- Linux & Windows Fundamentals  
+### 🧠 Core Security Foundations
+- Linux & Windows Internals (Basics)  
 - Computer Networks & Protocols  
 - Cryptography & Secure Authentication  
-- Secure Coding Practices  
+- Secure Coding Principles  
 
 ---
 
-## 💻 Programming & Development
+## 💻 Programming & Engineering
 
 - **Languages**: Python, Java, C, Solidity  
 - **Web**: HTML, CSS, JavaScript, React  
@@ -102,88 +110,83 @@ I am a **cybersecurity-focused engineer** with strong academic excellence and pr
 
 ---
 
-## 🛠 Tools & Platforms
-
-- Git & GitHub  
-- Linux, Bash Scripting  
-- VS Code  
-- Security labs & automation scripts (academic & internship use)
-
----
-
-## 🧑‍🏫 Internships & Experience
+## 🧑‍🏫 Internships & Industry Exposure
 
 ### 🔐 Cyber Resilience Intern *(Current)*
 **Bitsware**
 
-- Exposure to **SOC workflows and cyber resilience practices**
-- Assisted in **security monitoring and threat analysis**
-- Learned defensive strategies for system protection
-- Strengthened understanding of real-world cyber incidents
+- Worked on **SOC workflows & cyber resilience practices**
+- Assisted in **monitoring, analysis & threat response**
+- Gained exposure to **real-world security incidents**
+- Strengthened defensive security understanding
 
 ---
 
+### 🤖 AI–ML–IoT–SAP Intern
+**Edunet Foundation**
+
+- Worked on **AI & Machine Learning fundamentals**
+- Exposure to **IoT architectures & smart systems**
+- Understanding of **SAP ecosystem & enterprise workflows**
+- Bridged **AI/IoT technologies with cybersecurity awareness**
+
+---
 
 ### 🔗 Blockchain Intern
 **Web4next**
 
 - Developed **Solidity smart contracts**
-- Learned Ethereum workflows & deployment basics
-- Collaborated on blockchain-based components
+- Learned Ethereum deployment workflows
+- Worked on decentralized application logic
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Credentials
 
 - 🛡 **Certified in Cybersecurity (CC)** – ISC²  
 - 🔐 **Google Cybersecurity Professional Certificate**  
 - 🕵️ **Ethical Hacking Essentials (EHE)**  
-- 🎯 **GATE Qualified (Computer Science)**  
+- 🎯 **GATE Qualified – Computer Science**
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Highlight Projects
 
-### 🔐 Web & Security-Oriented Projects
-- **Smart Library Management System** – Secure web application design  
-- **Simon Game** – JavaScript logic & event handling  
-- **NASA Space Apps Challenge** – UI/UX & team problem-solving  
-
----
-
-## 📈 Continuous Learning
-
-- SOC Operations & Blue Team Skills  
-- Web Application VAPT  
-- OT / ICS Security Fundamentals  
-- Secure Software Development  
+🔐 **Security-Aware Web Systems**  
+🎮 **Interactive Web Applications**  
+🌌 **NASA Space Apps Challenge** – Team innovation & UI/UX  
+📚 **Smart Library Management System** – Secure design principles  
 
 ---
 
-## 📊 GitHub Analytics (Animated)
+## 📊 GitHub Activity (Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartavyajoshi&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartavyajoshi&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartavyajoshi&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartavyajoshi&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartavyajoshi&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartavyajoshi&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🎯 Career Interests
+## 🎯 Career Direction
 
-- 🔵 SOC Analyst / Blue Team  
-- 🧪 Web Application VAPT  
-- 🏭 OT / ICS Security (Entry-Level)  
-- 🛡 Cyber Resilience & Defensive Security  
+🔵 SOC Analyst / Blue Team  
+🧪 Web Application VAPT  
+🏭 OT / ICS Security (Entry-Level)  
+🛡 Cyber Resilience & Defensive Security  
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect & Collaborate
 
-I’m actively seeking **cybersecurity internships, SOC roles, research opportunities, and open-source collaborations**.
+I am open to:
+- 🔐 Cybersecurity Internships  
+- 🧠 Research & Academic Projects  
+- 🛠 Open-Source Security Contributions  
 
-⭐ If you find my work useful, don’t forget to **star my repositories**!
+⭐ If this profile resonates with you, **star my repositories** and let’s connect!
+

@@ -1,96 +1,189 @@
-# Kartavya Joshi's GitHub Profile
-
-Welcome to my GitHub! I'm a passionate and driven computer science student with a keen interest in software development, cybersecurity, and blockchain. This repository showcases my projects, experiences, and skills in various domains like Python, Java, C, Web Development, and more. Feel free to explore!
-
----
-
-## 📍 **Contact Information**
-
-- **Location**: Ahmedabad, Gujarat
-- **Email**: [joshi.kartavyaa@gmail.com](mailto:joshi.kartavyaa@gmail.com)
-- **LinkedIn**: [linkedin.com/in/kartavyajoshi](https://www.linkedin.com/in/kartavyajoshi)
-- **GitHub**: [github.com/Kartavyajoshi](https://github.com/Kartavyajoshi)
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer+in+Progress;SOC+%7C+VAPT+%7C+OT+Security;Cyber+Resilience+%7C+Blue+Team+Focused;GATE+Qualified+%7C+ISC%C2%B2+Certified" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧑‍💻 **About Me**
+# 👋 Hi, I'm Kartavya Joshi
 
-I am a final-year Computer Science and Engineering student specializing in **cybersecurity** and **software development**. I have a strong passion for protecting systems and creating innovative solutions in an increasingly digital world. I'm committed to continuous learning and growth in these rapidly evolving fields. With experience in Python, Java, JavaScript, and web technologies, I am excited to contribute to innovative software solutions while improving my skills and knowledge.
+🎓 **M.Tech Student | Cybersecurity & Cyber Resilience Specialist**  
+🔐 **SOC • VAPT (Web) • OT/ICS Security • Blue Team Enthusiast**  
+🏅 **GATE Qualified | ISC² Certified**
 
----
-
-## 🎓 **Education**
-
-**New LJ Institute of Engineering and Technology**, Ahmedabad  
-**Bachelor of Technology (B.Tech.) in Computer Science and Engineering**  
-Expected Graduation: May 2025  
-**CPI**: 9.61  
-(Two-time score 10/10 SPI in semester 2 & 7)
-(GATE QUALIFIED)
+I am a **cybersecurity-focused engineer** with strong academic excellence and practical exposure to **SOC operations, web application security testing (VAPT), cyber resilience, and secure system design**. I am deeply interested in **defensive security, monitoring, threat analysis, and protecting critical infrastructure**.
 
 ---
 
-## 🔧 **Skills**
+## 📍 Professional Details
 
-- **Programming Languages**: Python, Java, C, Solidity  
-- **Web Development**: HTML, CSS, JavaScript, React  
-- **Cybersecurity**: Operating Systems, Cryptography, Computer Networks  
-- **Version Control**: Git, GitHub  
-- **Development Tools**: VS Code, Linux, Bash Scripting  
-- **Software Development**: Object-Oriented Programming (OOP), Blockchain Development  
-- **Soft Skills**: Critical Thinking, Project Management, Communication, Leadership, Time Management, Problem Solving, Teamwork, Creativity
+- 📍 **Location**: Ahmedabad, Gujarat, India  
+- 📧 **Email**: [joshi.kartavyaa@gmail.com](mailto:joshi.kartavyaa@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/kartavyajoshi](https://www.linkedin.com/in/kartavyajoshi)  
+- 🧑‍💻 **GitHub**: [github.com/Kartavyajoshi](https://github.com/Kartavyajoshi)
 
 ---
 
-## 🧑‍🏫 **Work Experience**
+## 🧠 Cybersecurity Profile Summary
 
-### Blockchain Intern  
-**Web4next**, Ahmedabad, Gujarat — *Aug 2023 – Aug 2023*  
-- Gained valuable experience in developing Solidity and smart contracts on the Ethereum blockchain.  
-- Collaborated with team members to complete tasks and achieve training objectives.
-
----
-
-## 🏆 **Certifications**
-
-- **Certified in Cybersecurity** – ISC²  
-- **Google Cybersecurity** – View credentials  
-- **Ethical Hacking Essentials (EHE)** – View credentials
+- 🔐 SOC monitoring, alert analysis & incident triage exposure  
+- 🧪 Web Application **VAPT (OWASP Top 10)** knowledge  
+- 🏭 Foundational understanding of **OT / ICS security & SCADA risks**  
+- 🛡 Cyber resilience & defensive security mindset  
+- 📊 Strong fundamentals in **OS, Networks, Cryptography & Secure Coding**
 
 ---
 
-## 🎯 **Extracurricular Activities**
+## 🎓 Education
 
-- **SIH** — Selected at the college level for the Smart India Hackathon  
-- **Hackout 2023** — Participated in the hackathon, collaborating with a team to solve challenging problems.  
-- **Cybersecurity Awareness Workshops** — Attended workshops held at college to enhance knowledge on cybersecurity best practices.
+### 🏫 National Forensic Sciences University (NFSU)
+🎓 **Master of Technology (M.Tech)**  
+📌 *Cybersecurity / Cyber Resilience*  
+📅 **Currently Pursuing**
 
----
-
-## 💼 **Projects**
-
-### 1. **NASA Space Apps Challenge**
-- Developed a space tourism website using HTML, CSS, and JavaScript, showcasing creative ideas related to space exploration.
-- Worked with a team to create an intuitive user interface and ensure the project adhered to competition guidelines.
-
-### 2. **Simon Game**
-- Created an interactive web-based version of the classic Simon Game, challenging players to repeat increasingly complex color and sound sequences.
-- This project highlights my skills in web development and user interface design.
-
-### 3. **Smart Library Management System**
-- Developed a web-based application for libraries, allowing users to search for books, reserve them, and manage their library experience.
-- Implemented efficient back-end operations and user-friendly front-end design.
+- SOC concepts, cyber defense strategies & resilience engineering  
+- Incident response lifecycle & threat modeling exposure  
 
 ---
 
-## 📈 **Continuous Learning**
+### 🏫 New LJ Institute of Engineering and Technology
+🎓 **B.Tech – Computer Science & Engineering**  
+📅 **Graduated: May 2025**
 
-I am committed to continuous learning and self-improvement. I have completed the **Web Development Bootcamp** by Dr. Angela Yu on Udemy, which enhanced my skills in front-end and back-end technologies. Additionally, I have expanded my knowledge of blockchain technology and decentralized applications.
+- 📊 **CPI**: **9.61**
+- 🏆 **SPI 10/10** (Semester 2 & 7)
+- ✅ **GATE Qualified**
+- Core strengths: **OS, CN, DBMS, Cryptography, DSA**
+
+---
+
+## 🛡 Cybersecurity Skills
+
+### 🔵 SOC (Security Operations Center)
+- Log Monitoring & Analysis  
+- Alert Triage & Escalation  
+- SIEM Concepts (Foundational)  
+- Incident Detection & Response Flow  
+- Blue Team Security Operations  
+
+---
+
+### 🧪 VAPT – Web Applications
+- OWASP Top 10 Vulnerabilities  
+- Web Reconnaissance  
+- Authentication & Session Testing  
+- Input Validation & Access Control  
+- Risk Analysis & Reporting  
+
+---
+
+### 🏭 OT / ICS Security (Foundational)
+- ICS & SCADA Architecture Awareness  
+- OT vs IT Security Differences  
+- Industrial Threat Landscape  
+- Availability & Safety-Centric Security  
+- Introductory Industrial Protocol Knowledge  
+
+---
+
+### 🔐 Core Security Knowledge
+- Linux & Windows Fundamentals  
+- Computer Networks & Protocols  
+- Cryptography & Secure Authentication  
+- Secure Coding Practices  
+
+---
+
+## 💻 Programming & Development
+
+- **Languages**: Python, Java, C, Solidity  
+- **Web**: HTML, CSS, JavaScript, React  
+- **Blockchain**: Ethereum, Smart Contracts  
+
+---
+
+## 🛠 Tools & Platforms
+
+- Git & GitHub  
+- Linux, Bash Scripting  
+- VS Code  
+- Security labs & automation scripts (academic & internship use)
+
+---
+
+## 🧑‍🏫 Internships & Experience
+
+### 🔐 Cyber Resilience Intern *(Current)*
+**Bitsware**
+
+- Exposure to **SOC workflows and cyber resilience practices**
+- Assisted in **security monitoring and threat analysis**
+- Learned defensive strategies for system protection
+- Strengthened understanding of real-world cyber incidents
 
 ---
 
 
+### 🔗 Blockchain Intern
+**Web4next**
 
-Thank you for visiting my GitHub profile! If you have any questions or would like to collaborate, feel free to reach out!
+- Developed **Solidity smart contracts**
+- Learned Ethereum workflows & deployment basics
+- Collaborated on blockchain-based components
 
 ---
+
+## 🏆 Certifications
+
+- 🛡 **Certified in Cybersecurity (CC)** – ISC²  
+- 🔐 **Google Cybersecurity Professional Certificate**  
+- 🕵️ **Ethical Hacking Essentials (EHE)**  
+- 🎯 **GATE Qualified (Computer Science)**  
+
+---
+
+## 🚀 Key Projects
+
+### 🔐 Web & Security-Oriented Projects
+- **Smart Library Management System** – Secure web application design  
+- **Simon Game** – JavaScript logic & event handling  
+- **NASA Space Apps Challenge** – UI/UX & team problem-solving  
+
+---
+
+## 📈 Continuous Learning
+
+- SOC Operations & Blue Team Skills  
+- Web Application VAPT  
+- OT / ICS Security Fundamentals  
+- Secure Software Development  
+
+---
+
+## 📊 GitHub Analytics (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartavyajoshi&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartavyajoshi&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartavyajoshi&theme=react-dark" />
+</p>
+
+---
+
+## 🎯 Career Interests
+
+- 🔵 SOC Analyst / Blue Team  
+- 🧪 Web Application VAPT  
+- 🏭 OT / ICS Security (Entry-Level)  
+- 🛡 Cyber Resilience & Defensive Security  
+
+---
+
+## 🤝 Let’s Connect
+
+I’m actively seeking **cybersecurity internships, SOC roles, research opportunities, and open-source collaborations**.
+
+⭐ If you find my work useful, don’t forget to **star my repositories**!

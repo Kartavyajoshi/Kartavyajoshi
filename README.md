@@ -4,257 +4,401 @@
 
 ### 🛡️ Cybersecurity Engineer | SOC Analyst | VAPT Expert
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Defending+Systems+%7C+Detecting+Threats;Building+Cyber+Resilience;GATE+Qualified+%7C+ISC²+Certified" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Defending+Systems+%7C+Detecting+Threats;Building+Cyber+Resilience;GATE+Qualified+%7C+ISC²+Certified;M.Tech+Cybersecurity+Student" alt="Typing animation" />
+
+<br>
+
+**[ 📌 Ahmedabad, Gujarat, India ]**
 
 </div>
 
 ---
+
+## 🔗 Connect With Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-joshi.kartavyaa@gmail.com-0ea5e9?style=flat&logo=gmail&logoColor=white)](mailto:joshi.kartavyaa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kartavyajoshi-0ea5e9?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartavyajoshi)
-[![GitHub](https://img.shields.io/badge/GitHub-Kartavyajoshi-0ea5e9?style=flat&logo=github&logoColor=white)](https://github.com/Kartavyajoshi)
+[![Email](https://img.shields.io/badge/Email-joshi.kartavyaa%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joshi.kartavyaa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kartavyajoshi-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartavyajoshi)
+[![GitHub](https://img.shields.io/badge/GitHub-Kartavyajoshi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kartavyajoshi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-00d4ff?style=flat-square&logo=globus&logoColor=white)](https://github.com/Kartavyajoshi)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 📖 About Me
 
-M.Tech Cybersecurity Student specializing in **defensive security**, **threat detection**, and **cyber resilience**. Building secure systems across **IT, OT, and emerging technologies**.
+```
+M.Tech Cybersecurity Student | Cyber Resilience Professional
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Passionate about defending systems, detecting threats, and 
+building resilient security infrastructures across IT, OT, 
+and emerging technologies.
+
+→ Specialized in SOC operations, web application security,
+  and industrial control system protection
+→ Committed to continuous learning and security innovation
+```
 
 > *"Security is not a product, but a process."*
 
 ---
 
-## 📊 Quick Stats
+## 📊 Quick Snapshot
 
 <div align="center">
 
-| 🏆 | 📚 | 💡 | 🚀 |
-|:---:|:---:|:---:|:---:|
-| **9.61** | **10/10** | **4+** | **∞** |
-| B.Tech CPI | Perfect SPI | Internships | Passion |
+| Metric | Value | Status |
+|:---:|:---:|:---:|
+| 🎓 **Academic Excellence** | 9.61 CPI | ⭐⭐⭐⭐⭐ |
+| 🏆 **Perfect Semester** | 10/10 SPI | ✅ ACHIEVED |
+| 🎯 **GATE Status** | Qualified | ✅ QUALIFIED |
+| 📚 **Current Study** | M.Tech Cybersecurity | 🚀 PURSUING |
+| 💼 **Industry Experience** | 4+ Internships | ✅ COMPLETED |
 
 </div>
 
 ---
 
-## 🛡️ Core Competencies
+## 🛠️ Technical Competencies
 
-<div align="center">
+### 🔐 Security Domains
 
-![SOC](https://img.shields.io/badge/SOC%20Analyst-0ea5e9?style=for-the-badge)
-![VAPT](https://img.shields.io/badge/Web%20VAPT-0ea5e9?style=for-the-badge)
-![OT Security](https://img.shields.io/badge/OT%2FICS%20Security-0ea5e9?style=for-the-badge)
-![Blue Team](https://img.shields.io/badge/Blue%20Team-0ea5e9?style=for-the-badge)
-![ISC²](https://img.shields.io/badge/ISC²%20Certified-0ea5e9?style=for-the-badge)
-![GATE](https://img.shields.io/badge/GATE%20Qualified-0ea5e9?style=for-the-badge)
+<table>
+<tr>
+<td width="50%">
 
-</div>
+**🔵 SOC Operations**
+- Log Monitoring & Analysis
+- Alert Triage & Escalation
+- Incident Detection Lifecycle
+- Threat Response & Hunting
+- SIEM Fundamentals
 
----
+</td>
+<td width="50%">
 
-## 💪 Technical Skills
+**🧪 Web Application Security**
+- OWASP Top 10 Expert
+- Authentication Testing
+- Session Management Analysis
+- Access Control Validation
+- API Security Assessment
 
-### 🔵 SOC Operations
-```
-Log Monitoring & Alert Triage      ████████████████░░░░ 85%
-Incident Detection Lifecycle       ████████████████░░░░░ 80%
-SIEM & Blue Team Operations        █████████████████░░░░ 82%
-Threat Response & Analysis         ████████████████░░░░░ 80%
-```
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 🧪 Web Application VAPT
-```
-OWASP Top 10 Mastery              ███████████████████░░ 88%
-Authentication & Session Testing   █████████████████░░░░ 85%
-Access Control Validation          ████████████████░░░░░ 83%
-Risk Assessment & Reporting        ████████████████░░░░░ 83%
-```
+**🏭 OT/ICS Security**
+- ICS & SCADA Architecture
+- Industrial Threat Landscape
+- Safety-Critical Systems
+- Availability-Focused Defense
+- Industrial Protocols
 
-### 🏭 OT/ICS Security
-```
-ICS & SCADA Architecture           ███████████████░░░░░░ 75%
-Industrial Threat Landscape        ████████████████░░░░░ 78%
-Availability & Safety Defense      █████████████████░░░░ 80%
-Industrial Protocol Concepts       ███████████████░░░░░░ 75%
-```
+</td>
+<td width="50%">
 
-### 💻 Programming & Tools
-```
-Python                             ████████████████████░ 90%
-Linux & Windows Internals          █████████████████░░░░ 85%
-Computer Networks & Protocols      ██████████████████░░░ 87%
-Cryptography & Secure Auth         ████████████████░░░░░ 84%
-JavaScript & React                 ████████████░░░░░░░░░ 70%
-Solidity & Blockchain              ███████████░░░░░░░░░░ 65%
-```
+**🛡️ Defensive Security**
+- Linux & Windows Security
+- Network Protocols & Analysis
+- Cryptography & Authentication
+- Secure Coding Practices
+- Threat Modeling
 
----
-
-## 🎓 Education
-
-### **M.Tech – Cybersecurity / Cyber Resilience**
-📍 *National Forensic Sciences University (NFSU)* — **Ongoing**
-
-- 🎯 SOC operations & incident handling
-- 🔍 Threat modeling & defensive strategies
-- 🛡️ Cyber resilience frameworks
-- 🏭 Security in critical infrastructure
-
-### **B.Tech – Computer Science & Engineering**
-📍 *New LJ Institute of Engineering and Technology*
-
-- **CPI:** 9.61 ⭐
-- **SPI:** 10/10 (Semesters 2 & 7) 🏆
-- **Status:** GATE Qualified ✅
-- **Core:** OS | CN | Cryptography | DBMS | DSA
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Professional Experience
+## 💻 Technical Skills Matrix
 
-### 🔐 **Cyber Resilience Intern** | Bitsware
-*Current*
+### Programming Languages
+```
+Python              ████████████████████░░ 90%
+Java                ███████████████░░░░░░░ 75%
+C                   ████████████████░░░░░░ 78%
+JavaScript          ███████████░░░░░░░░░░░ 70%
+Solidity            ██████████░░░░░░░░░░░░ 65%
+```
 
-- ✅ SOC workflows & cyber resilience practices
-- ✅ Real-time monitoring, analysis & threat response
-- ✅ Real-world security incident exposure
-- ✅ Incident handling & defensive operations
+### Security & Tools
+```
+Log Analysis        ████████████████░░░░░░ 85%
+Network Protocols   ██████████████████░░░░ 87%
+Threat Detection    █████████████████░░░░░ 82%
+Vulnerability Scan  ██████████████████░░░░ 85%
+Incident Response   ████████████████░░░░░░ 80%
+```
 
-### 🤖 **AI-ML-IoT-SAP Intern** | Edunet Foundation
-
-- ✅ Machine Learning & AI fundamentals
-- ✅ IoT architectures & smart systems
-- ✅ SAP ecosystem & enterprise workflows
-- ✅ Bridge between emerging tech & cybersecurity
-
-### 🔗 **Blockchain Intern** | Web4next
-
-- ✅ Solidity smart contracts development
-- ✅ Ethereum deployment workflows
-- ✅ Decentralized application logic
+### Infrastructure & DevOps
+```
+Linux Administration ██████████████████░░░░ 85%
+Windows Security    ████████████████░░░░░░ 80%
+Networks & Protocols ██████████████████░░░░ 87%
+Cryptography        ████████████████░░░░░░ 84%
+```
 
 ---
 
-## 🏆 Certifications
+## 🎓 Education & Qualifications
+
+### 🏫 **M.Tech – Cybersecurity & Cyber Resilience**
+**National Forensic Sciences University (NFSU)**  
+*Ongoing | Focus Areas: SOC Operations, Threat Modeling, Cyber Resilience*
+
+- Advanced SOC operations & incident handling
+- Threat modeling & defensive strategy design
+- Cyber resilience frameworks & implementation
+- Security in critical infrastructure
+
+### 🏫 **B.Tech – Computer Science & Engineering**
+**New LJ Institute of Engineering and Technology**  
+*Graduated with Honors*
+
+- **CGPA:** 9.61 (Top Tier) 🌟
+- **Highest SPI:** 10/10 (Semesters 2 & 7) 🏆
+- **Qualification:** GATE Qualified in Computer Science ✅
+- **Core Expertise:** Operating Systems | Networks | Cryptography | DBMS | Data Structures
+
+---
+
+## 🏢 Professional Experience
+
+### 🔐 **Cyber Resilience Intern**
+**Bitsware**  
+*Security Operations & Incident Response*
+
+- Implemented SOC workflows and cyber resilience practices
+- Performed real-time log monitoring and alert analysis
+- Participated in incident response and threat analysis
+- Gained hands-on exposure to enterprise security operations
+- Strengthened understanding of defensive security mechanisms
+
+### 🤖 **AI-ML-IoT-SAP Intern**
+**Edunet Foundation**  
+*Emerging Technologies & Enterprise Systems*
+
+- Developed Machine Learning and AI fundamentals knowledge
+- Explored IoT architectures and smart system design
+- Studied SAP ecosystem and enterprise workflow processes
+- Applied cybersecurity awareness to emerging technologies
+
+### 🔗 **Blockchain Development Intern**
+**Web4next**  
+*Decentralized Applications & Smart Contracts*
+
+- Developed Solidity smart contracts on Ethereum
+- Implemented secure decentralized application logic
+- Learned blockchain security best practices
+- Practiced secure deployment workflows
+
+---
+
+## 🏆 Certifications & Achievements
 
 <div align="center">
 
 | Certification | Issuer | Status |
 |:---|:---|:---:|
-| **Certified in Cybersecurity (CC)** | ISC² | ✅ |
-| **Google Cybersecurity Professional** | Google | ✅ |
-| **Ethical Hacking Essentials (EHE)** | EC-Council | ✅ |
-| **GATE Qualified** | Computer Science | ✅ |
+| **Certified in Cybersecurity (CC)** | ISC² | ✅ ACTIVE |
+| **Google Cybersecurity Professional Certificate** | Google Cloud | ✅ COMPLETED |
+| **Ethical Hacking Essentials (EHE)** | EC-Council | ✅ CERTIFIED |
+| **GATE Qualified** | IIT - Computer Science | ✅ QUALIFIED |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Key Projects & Achievements
 
-### 🔐 Security-Aware Web Systems
-Building secure applications with defense-in-depth approach and secure coding practices.
+### 🔐 **Security-Aware Web Application Systems**
+- Designed and implemented secure web applications
+- Applied OWASP secure development principles
+- Integrated authentication and authorization mechanisms
+- Performed security testing and vulnerability assessment
 
-### 🎮 Interactive Web Applications
-React-based projects with responsive design, UX excellence, and performance optimization.
+### 🎮 **Interactive Web Applications**
+- Developed responsive web applications using React
+- Focused on UX/UI excellence and performance optimization
+- Implemented secure client-side practices
+- Deployed scalable web solutions
 
-### 🌌 NASA Space Apps Challenge
-Team innovation project focusing on problem-solving and user interface design.
+### 🌌 **NASA Space Apps Challenge**
+- Collaborated on innovative space technology solutions
+- Contributed to UI/UX design and system architecture
+- Worked in cross-functional development teams
+- Presented solutions to industry experts
 
-### 📚 Smart Library Management System
-Secure system design with role-based access control and data protection mechanisms.
+### 📚 **Smart Library Management System**
+- Architected secure system design with role-based access control
+- Implemented database security and encryption
+- Designed secure API endpoints
+- Applied secure coding practices throughout
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Analytics
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kartavyajoshi&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Kartavyajoshi)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kartavyajoshi&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2cbf)](https://github.com/Kartavyajoshi)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartavyajoshi&theme=tokyonight)](https://github.com/Kartavyajoshi)
+</div>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartavyajoshi&layout=compact&theme=tokyonight)](https://github.com/Kartavyajoshi)
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartavyajoshi&theme=tokyonight&background=0d1117&stroke=7b2cbf&ring=00d4ff)](https://github.com/Kartavyajoshi)
+
+</div>
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartavyajoshi&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d4ff)](https://github.com/Kartavyajoshi)
 
 </div>
 
 ---
 
-## 🎯 Career Roadmap
+## 🎯 Career Vision & Roadmap
 
 ```
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│  Phase 1: SOC Analyst / Blue Team Specialist   │
-│              ↓                                  │
-│  Phase 2: Web Application VAPT & Research      │
-│              ↓                                  │
-│  Phase 3: OT/ICS Security Engineering          │
-│              ↓                                  │
-│  Phase 4: Cyber Resilience Leadership          │
-│                                                 │
-└─────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════╗
+║                     CAREER TRAJECTORY                      ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  📍 Phase 1: SOC Analyst / Blue Team Specialist           ║
+║     └─ Focus: Threat detection & incident response        ║
+║                                                            ║
+║  ↓                                                         ║
+║                                                            ║
+║  📍 Phase 2: Web Application Security Specialist          ║
+║     └─ Focus: VAPT & Vulnerability Research              ║
+║                                                            ║
+║  ↓                                                         ║
+║                                                            ║
+║  📍 Phase 3: OT/ICS Security Engineer                     ║
+║     └─ Focus: Industrial Control System Protection       ║
+║                                                            ║
+║  ↓                                                         ║
+║                                                            ║
+║  📍 Phase 4: Cyber Resilience Architect                  ║
+║     └─ Focus: Enterprise Security Leadership             ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🌐 Contact & Collaborate
+## 🔐 Security Philosophy & Approach
 
 <div align="center">
 
-**I'm open to:**
-- 🔐 Cybersecurity Internships & Full-Time Roles
-- 🧠 Research & Academic Collaborations
-- 🛠️ Open-Source Security Contributions
-- 💬 Mentorship & Knowledge Sharing
+```
+DEFENSE  →  DETECTION  →  RESPONSE  →  RECOVERY
+   ↓           ↓            ↓            ↓
+ Proactive   Monitor      Respond      Resilience
+ Defense     Threats      Quickly      Build Back
+```
 
----
-
-### Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-joshi.kartavyaa%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshi.kartavyaa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kartavyajoshi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartavyajoshi)
-[![GitHub](https://img.shields.io/badge/GitHub-Kartavyajoshi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kartavyajoshi)
-[![Location](https://img.shields.io/badge/Location-Ahmedabad%2C%20India-00d4ff?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Ahmedabad,Gujarat,India)
+**Principles I Live By:**
+- ✅ Security is a continuous process, not a destination
+- ✅ Defense in depth across all architectural layers
+- ✅ Zero trust with continuous verification
+- ✅ Rapid detection and immediate response capability
+- ✅ System resilience and recovery planning
 
 </div>
 
 ---
 
-## 🔐 Security Philosophy
+## 🤝 Collaboration & Interests
 
 <div align="center">
 
-**DEFENSE → DETECTION → RESILIENCE**
+**I'm actively seeking opportunities in:**
 
-```
-🔵 Proactive Defense
-    ↓
-🟠 Continuous Monitoring
-    ↓
-🔴 Rapid Response
-    ↓
-🟣 Swift Recovery
-```
+🔐 Cybersecurity Internships & Entry-Level Roles  
+🧠 Security Research & Academic Projects  
+🛠️ Open-Source Security Contributions  
+💬 Knowledge Sharing & Technical Mentorship  
+📊 Security Architecture & Resilience Design
 
 </div>
 
 ---
 
+## 📊 Key Metrics at a Glance
+
 <div align="center">
 
-### ⭐ If this profile resonates with you, star the repositories!
+| Category | Metric | Performance |
+|:---:|:---:|:---:|
+| **Academia** | CPI Score | 9.61 ⭐ |
+| **Excellence** | Perfect SPI | 10/10 🏆 |
+| **Qualification** | GATE Status | Qualified ✅ |
+| **Experience** | Internships | 4+ Completed ✅ |
+| **Specialization** | Security Domains | 4 Major Areas |
+| **Languages** | Programming | 6+ Languages |
+| **Certifications** | Professional | 4 Credentials |
 
-**"In cybersecurity, we don't just build walls. We build resilience."**
+</div>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Kartavyajoshi&color=00d4ff&style=flat-square" alt="Profile Views" />
+## 📞 Let's Connect!
 
-Made with 🔐 by Kartavya Joshi | Last Updated: January 2026
+<div align="center">
+
+### 👋 I'd love to hear from you!
+
+**Whether you have opportunities, questions, or just want to discuss cybersecurity,**  
+**feel free to reach out through any of these channels:**
+
+<br>
+
+[![Send Email](https://img.shields.io/badge/📧_Send_Email-joshi.kartavyaa@gmail.com-ea4335?style=for-the-badge)](mailto:joshi.kartavyaa@gmail.com)
+
+[![Connect on LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-kartavyajoshi-0a66c2?style=for-the-badge)](https://linkedin.com/in/kartavyajoshi)
+
+[![Visit GitHub](https://img.shields.io/badge/🧑‍💻_Check_Out_GitHub-Kartavyajoshi-181717?style=for-the-badge)](https://github.com/Kartavyajoshi)
+
+<br>
+
+**Response Time:** Generally within 24 hours 🚀
+
+</div>
+
+---
+
+## 💡 Final Thoughts
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║    "In cybersecurity, we don't just build walls.              ║
+║     We build resilience, awareness, and trust."              ║
+║                                                               ║
+║              - Kartavya Joshi                                 ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+### ⭐ If this profile resonates with you, please star the repositories!
+
+Your support motivates continued learning and contribution to the security community.
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=Kartavyajoshi&color=00d4ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+
+**Last Updated:** January 2026  
+**Status:** 🟢 Open to Opportunities  
+**Focus:** Building Secure & Resilient Systems
 
 </div>

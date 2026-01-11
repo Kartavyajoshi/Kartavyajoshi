@@ -1,3 +1,34 @@
+# 📟 Terminal: /usr/bin/kartavya_joshi
+
+<p align="center">
+<pre>
+ █▄▄ █▀█ █▀▀ █▄▀ █░█ ▄▀█ █▄░█ ▀█▀
+ █▄█ █▀▄ ██▄ █░█ █▀█ █▀█ █░▀█ ░█░
+      [ CYBER SECURITY | BLOCKCHAIN ]
+</pre>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=ROOT+ACCESS+GRANTED...;ENCRYPTING+FILES...;GATE+QUALIFIED+2025;BLOCKCHAIN+INTERN;CYBER+SECURITY+CERTIFIED">
+</p>
+
+---
+
+### 🕵️ System Information
+```zsh
+> whoami
+Kartavya Joshi
+[Final Year CSE Student | Cybersecurity Specialist]
+
+> locate --academic-records
+- University: New LJ Institute of Engineering and Technology
+- CPI: 9.61 (Elite Status)
+- SPI: 10/10 (Semester 2 & 7)
+- Rank: GATE QUALIFIED
+
+
+
+
 <div align="center">
 
 # KARTAVYA JOSHI
@@ -161,22 +192,6 @@ Secure system with role-based access control and data protection.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartavyajoshi&theme=tokyonight)](https://github.com/Kartavyajoshi)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartavyajoshi&layout=compact&theme=tokyonight)](https://github.com/Kartavyajoshi)
-
----
-
-## Career Path
-
-```
-SOC Analyst 
-    ↓
-Web Application Security Specialist
-    ↓
-OT/ICS Security Engineer
-    ↓
-Cyber Resilience Architect
-```
-
----
 
 ## Let's Connect
 

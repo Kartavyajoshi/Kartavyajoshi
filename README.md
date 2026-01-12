@@ -104,9 +104,27 @@ New LJ Institute of Engineering and Technology
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kartavyajoshi&show_icons=true&theme=tokyonight)](https://github.com/Kartavyajoshi)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartavyajoshi&layout=compact&theme=tokyonight)](https://github.com/Kartavyajoshi)  
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartavyajoshi&theme=tokyonight)](https://github.com/Kartavyajoshi)
+### 📊 My GitHub Stats
+<p align="left">
+  <a href="https://github.com/Kartavyajoshi">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kartavyajoshi&show_icons=true&theme=tokyonight&count_private=true" alt="Kartavya's Stats" />
+  </a>
+  <a href="https://github.com/Kartavyajoshi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartavyajoshi&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+  <br />
+  <a href="https://github.com/Kartavyajoshi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartavyajoshi&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</p>
+### 📈 Activity & Reach
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartavyajoshi&theme=tokyo-night" alt="Contribution Graph" />
+  
+  <br />
+
+  <img src="https://komarev.com/ghpvc/?username=Kartavyajoshi&label=Profile%20Views&color=bf91f3&style=flat" alt="Visitor Counter" />
+</p>
 
 ---
 

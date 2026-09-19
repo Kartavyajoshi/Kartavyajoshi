@@ -1,141 +1,153 @@
-# 💻 Kartavya Joshi | Cybersecurity Engineer & Blockchain Enthusiast
+# ⚡ Kartavya Joshi | Cybersecurity Engineer & Cyber Resilience Specialist
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=ROOT+ACCESS+GRANTED...;DEFENDING+SYSTEMS;BUILDING+RESILIENCE;BLOCKCHAIN+INTERN;CYBER+SECURITY+CERTIFIED" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=DEFENDING+CRITICAL+INFRASTRUCTURE;OT+%2F+ICS+SECURITY+SPECIALIST;FIRMWARE+%26+EMBEDDED+VULN+RESEARCHER;BLUE+TEAM+OPERATIONS+%26+SOC+DEFENSE;BUILDING+SYSTEMIC+CYBER+RESILIENCE" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://in.linkedin.com/in/kartavyajoshi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Kartavyajoshi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://tryhackme.com/p/joshi.kartavyaa"><img src="https://img.shields.io/badge/TryHackMe-C1121F?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="mailto:joshi.kartavyaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://kartavyajoshi.github.io/WINSECURE/"><img src="https://img.shields.io/badge/WinSecure_Platform-00FF41?style=for-the-badge&logo=windows&logoColor=black" alt="WinSecure" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-I am **Kartavya Joshi**, an M.Tech Cybersecurity & Cyber Resilience student at **NFSU** and a B.Tech CSE graduate with **CPI 9.61**.  
-Passionate about **SOC operations, VAPT, OT/ICS security, and blockchain development**. GATE-qualified, certified by **ISC², Google & EC-Council**, with hands-on experience in real-world projects and internships.
+## 👨‍💻 Executive Summary
 
-📍 Ahmedabad, India  
-📧 joshi.kartavyaa@gmail.com  
-[LinkedIn](https://linkedin.com/in/kartavyajoshi) | [GitHub](https://github.com/Kartavyajoshi)
+I am an **M.Tech Cybersecurity & Cyber Resilience candidate** at the **National Forensic Sciences University (NFSU)** (School of Cyber Security & Digital Forensics) and a **B.Tech Computer Science graduate (CPI: 9.61 / 10)**.
 
----
+My research and engineering practice focuses on **Operational Technology (OT) / ICS Security**, **Vulnerability Research & Firmware Reverse Engineering**, **Defensive SOC & SIEM Operations**, and **Deterministic Endpoint Posture Auditing**. I specialize in securing air-gapped industrial environments, analyzing proprietary control protocols, uncovering embedded vulnerabilities (responsible disclosure), and building offline-resilient security architectures.
 
-## 🏆 Key Highlights
-| Achievement | Details |
-|:---|:---|
-| **B.Tech CPI** | 9.61 ⭐ |
-| **Perfect SPI** | 10/10 🏆 (Sem 2 & 7) |
-| **GATE** | Qualified ✅ |
-| **Internships** | 4+ (SOC, Blockchain, AI/ML, IoT) |
-| **Certifications** | ISC², Google, EHE |
+- 🎓 **Education**: M.Tech in Cybersecurity & Cyber Resilience (**NFSU**) | B.Tech in CSE (**9.61 CPI**, **10/10 SPI** in Sem 2 & 7)
+- 🎯 **Recognitions**: **GATE Qualified** | 4+ Industry Internships (SOC Operations, Blockchain, AI/ML, IoT)
+- 📜 **Certifications**: Certified in Cybersecurity (**ISC² CC**), Google Cybersecurity Professional, EC-Council (EHE)
+- 🔬 **Research Focus**: AI-driven deception honeypots, firmware binary dissection (MIPS/ARM), and industrial SCADA resilience
+- 📍 **Location**: Ahmedabad / Gandhinagar, India
 
 ---
 
-## 🛡️ Core Expertise
+## 🏭 Operational Technology (OT) & ICS Security Focus
 
-### SOC & Defensive Security
-- ✅ Log monitoring & incident handling  
-- ✅ SIEM & alert triage  
-- ✅ Blue team operations  
+Defending industrial environments demands safety-critical, protocol-deterministic engineering that fundamentally differs from enterprise IT. My OT/ICS practice spans architecture mapping, protocol telemetry forensics, and air-gapped cyber-physical system defense:
 
-### Web App Security (VAPT)
-- ✅ OWASP Top 10 & auth testing  
-- ✅ Access control & vulnerability assessment  
+```
++-----------------------------------------------------------------------------------------+
+|                               PURDUE MODEL & DEFENSE LAYERS                             |
++-----------------------------------------------------------------------------------------+
+|  Level 4/5 : Enterprise & Cloud   --> IT/OT DMZ (Data Diodes, Strict Jump Hosts, NGFW)  |
+|  Level 3   : Site Operations      --> Historians, SCADA Servers, OT SIEM & Zeek Monitor |
+|  Level 2   : Supervisory Control  --> HMIs, Engineering Workstations (EWS Hardening)   |
+|  Level 1   : Local Automation     --> PLCs (ABB, Siemens), RTUs, IEDs (Logic Integrity) |
+|  Level 0   : Physical Process     --> Actuators, Sensors, Drives, Safety Relays         |
++-----------------------------------------------------------------------------------------+
+```
 
-### OT / ICS Security
-- ✅ SCADA/ICS architecture & threat modeling  
-- ✅ Safety-critical systems & industrial protocols  
+### 🔹 Industrial Protocols & Telemetry Forensics
+- **Deep Packet Inspection & PCAP Analysis**: Function-code auditing, unauthorized write prevention, and anomaly triage for **Modbus (TCP/RTU)**, **DNP3**, **IEC 60870-5-104**, **IEC 61850**, **Ethernet/IP**, **Profinet**, and **OPC UA**.
+- **Hardware & PLC Assessment**: Hands-on evaluation of industrial controllers (e.g., ABB AC500 / PM564-ETH series), ladder logic validation, and firmware integrity inspection.
 
-### Blockchain & Smart Contracts
-- ✅ Solidity & Ethereum deployment  
-- ✅ Secure contract logic & auditing  
+### 🔹 Standards, Governance & Frameworks
+- **ISA/IEC 62443**: Translating Security Levels (SL 1–4) into practical conduit & zone microsegmentation policies for IACS.
+- **NIST SP 800-82 (Rev 3)**: Implementing cyber-physical safeguards prioritizing availability, safety-instrumented systems (SIS), and non-disruptive monitoring.
+- **MITRE ATT&CK® for ICS**: TTP mapping covering initial access, execution, inhibition of response functions, and manipulation of control telemetry.
 
----
+### 🔹 OT Cyber Resilience & Air-Gapped Architecture
+- **Zero-Cloud Air-Gapped Operation**: Building inspection tools and forensic workflows that run 100% offline with zero external network dependencies.
+- **Industrial Deception & Threat Modeling**: Utilizing ICS honeypots (e.g., Conpot integration) to model adversary reconnaissance against SCADA assets.
 
-## 💻 Tech Stack
+## 🚀 Featured Engineering Projects
 
-**Languages & Tools**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/-BurpSuite-EE5C28?style=flat-square&logo=burpsuite&logoColor=white)
+### 🛡️ [WinSecure — Automated Cybersecurity Assessment & Posture Platform](https://github.com/Kartavyajoshi/WINSECURE)
+> **Platform**: Python 3.9+ | Windows 10/11/Server | **108 Tests Passing** | [Live Website & Threat Matrix](https://kartavyajoshi.github.io/WINSECURE/)
 
----
-
-## 🎓 Education
-
-**M.Tech Cybersecurity & Cyber Resilience** — *Ongoing*  
-National Forensic Sciences University (NFSU)  
-- SOC operations, threat modeling, defensive strategies, critical infrastructure security  
-
-**B.Tech Computer Science & Engineering** — *Completed*  
-New LJ Institute of Engineering and Technology  
-- CPI: 9.61 | Highest SPI: 10/10 | GATE Qualified  
-- Core: OS, Networks, Cryptography, DBMS, DSA  
+An enterprise-grade, deterministic, non-destructive Windows configuration auditing engine engineered for high-security and air-gapped environments:
+- **36 Security Domains & 62+ Defensive Assertions**: Evaluates LSA RunAsPPL, Credential Guard, VBS/HVCI, CET shadow stacks, Controlled Folder Access, WDAC, and SMB/RDP hardening.
+- **Academic Rigor**: Formulates Bayesian Attack Graphs (*IEEE TDSC*), Kill-Chain blast radius correlation, and computes a **Ransomware Defense Index (RDI)**.
+- **Zero Trust & Compliance Mapping**: Assesses posture against CISA Zero Trust Maturity Model (ZTMM v2.0), CIS Controls v8, NIST SP 800-53 Rev 5, DISA STIG, and Microsoft Baselines.
+- **Air-Gapped & SIEM Ready**: 100% offline execution with zero cloud telemetry; exports interactive HTML, SARIF, JSON, and NDJSON for Splunk, Elastic, and Microsoft Sentinel.
 
 ---
 
-## 💼 Professional Experience
+### 🔍 [IntelCore-OSINT — Threat Intelligence & Passive Reconnaissance Platform](https://github.com/Kartavyajoshi/IntelCore-OSINT)
+> **Stack**: Python | OSINT APIs | Attack Surface Intelligence
 
-**Cyber Resilience Intern** — Bitsware  
-
-**AI-ML-IoT-SAP Intern** — Edunet Foundation  
-
-**Blockchain Development Intern** — Web4next   
-
----
-
-## 📜 Certifications
-![ISC2](https://img.shields.io/badge/-ISC%C2%B2-323232?style=flat-square&logo=isc2&logoColor=blue)
-![Google](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=google&logoColor=white)
-![EC-Council](https://img.shields.io/badge/-EC--Council-005BAC?style=flat-square&logo=ec-council&logoColor=white)
-![GATE](https://img.shields.io/badge/-GATE-FF6F00?style=flat-square&logo=GATE&logoColor=white)
+A professional-grade intelligence gathering framework that automates external attack surface discovery:
+- **Multi-Vector Intelligence**: Aggregates and correlates telemetry across 11 modules including Shodan, VirusTotal, and DNS forensics.
+- **Zero Touch Target Architecture**: Gathers comprehensive reconnaissance metrics without touching or alerting target infrastructure.
+- **Actionable Reporting**: Synthesizes threat feeds into structured risk intelligence reports for red/blue team assessments.
 
 ---
 
-## 🧪 Projects
-- **Security-Aware Web Systems:** Full-stack apps with defense-in-depth & OWASP mitigations  
-- **Smart Library Management System:** Role-based access control & data protection  
-- **NASA Space Apps Challenge:** UI/UX team innovation project  
-- **Blockchain / Smart Contracts:** Solidity contracts, audits & deployment  
+### 🔬 [Malware Analyzer — Static Binary Dissection & Triage Framework](https://github.com/Kartavyajoshi/MALWARE-ANALYZER)
+> **Stack**: Python | PE/ELF Forensics | Reverse Engineering
+
+A multi-format static analysis framework built for incident responders and reverse engineers:
+- **Safe Static Inspection**: Dissects suspicious binaries, extracts actionable indicators of compromise (IOCs), and flags anomalous structures without detonation.
+- **Deep Triage**: Analyzes PE/ELF headers, section entropy, import/export tables, suspicious API calls, and embedded strings.
+- **Forensic Pipeline**: Streamlines command-line triage for fast incident escalation and malware classification.
 
 ---
 
-## 📊 GitHub Stats
-### 📊 My GitHub Stats
-<p align="left">
-  <a href="https://github.com/Kartavyajoshi">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kartavyajoshi&show_icons=true&theme=tokyonight&count_private=true" alt="Kartavya's Stats" />
-  </a>
-  <a href="https://github.com/Kartavyajoshi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartavyajoshi&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-  <br />
-  <a href="https://github.com/Kartavyajoshi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartavyajoshi&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+### 🔐 [Secura-Vault — Hardware-Bound Anti-Forensic Cryptographic Vault](https://github.com/Kartavyajoshi/Secura-Vault)
+> **Stack**: Python | Cryptography | Zero-Knowledge Architecture
+
+An industrial-grade password management architecture engineered for high-security workstation environments:
+- **Zero-Knowledge Storage**: Implements hardware-bound key derivation and cryptographic authentication.
+- **Anti-Forensic Controls**: Prevents memory dumping and forensic artifact extraction on local endpoints.
+
+## 🛡️ Core Technical Competencies
+
+| Domain | Key Capabilities & Methodologies |
+| :--- | :--- |
+| **OT / ICS Security** | ISA/IEC 62443, NIST SP 800-82, Purdue Model, Modbus, DNP3, IEC 60870-5-104, SCADA/PLC Triage |
+| **Firmware & Embedded Sec** | MIPS/ARM Disassembly, Ghidra, Binwalk, Firmware Unpacking, CVE Research, PoC Development |
+| **Defensive SOC & SIEM** | Log Analysis, Threat Hunting, Splunk, Elastic/ELK, Microsoft Sentinel, Incident Response |
+| **System Hardening & Audit** | Windows Internals, CIS Benchmarks, NIST SP 800-53, DISA STIG, Zero Trust (CISA ZTMM) |
+| **VAPT & AppSec** | OWASP Top 10, Network Vulnerability Assessment, Authentication/Authorization Flaws |
+| **Malware & Reverse Eng** | Static Analysis, PE/ELF Structure Inspection, Header/Entropy Forensics, YARA rules |
+
+---
+
+## 💻 Tech Stack & Tooling
+
+```
+Programming & Scripting : Python | C / C++ | Bash | PowerShell | Solidity | Java | SQL
+OT / ICS & Network     : Wireshark | Zeek / Suricata | Modbus Tools | Scapy | NetworkMiner | Conpot
+Reverse Eng & Analysis : Ghidra | x64dbg | Binwalk | YARA | PEfile | Strings | GDB
+Threat Defense & SIEM  : WinSecure | Splunk | Sysmon | Wazuh | OpenVAS
+Security Testing       : Nmap | Burp Suite | Metasploit | Shodan | OWASP ZAP | Impacket
+Platforms & Systems    : Linux (Kali, Ubuntu) | Windows Server / 11 | Docker | Git
+```
+
+---
+
+## 🏆 Highlights & Academic Milestones
+
+| Milestone | Recognition & Details |
+| :--- | :--- |
+| **M.Tech NFSU** | Cybersecurity & Cyber Resilience at National Forensic Sciences University |
+| **B.Tech CSE** | **9.61 CPI** (Graduated with top academic standing) |
+| **GATE Exam** | Qualified Computer Science & Information Technology |
+| **Industry Internships** | 4+ completed internships across SOC Operations, Blockchain, AI/ML, and IoT domains |
+| **Global Certifications** | Certified in Cybersecurity (**ISC² CC**), Google Cybersecurity, EC-Council (EHE) |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartavyajoshi&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c0caf5&bg_color=0d1117" alt="Kartavya's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartavyajoshi&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF41&text_color=c0caf5&bg_color=0d1117" alt="Top Languages" height="165" />
 </p>
-### 📈 Activity & Reach
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartavyajoshi&theme=tokyo-night" alt="Contribution Graph" />
-  
-  <br />
 
-  <img src="https://komarev.com/ghpvc/?username=Kartavyajoshi&label=Profile%20Views&color=bf91f3&style=flat" alt="Visitor Counter" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartavyajoshi&theme=tokyonight&hide_border=true&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=c0caf5&sideLabels=c0caf5&dates=7982a9&background=0d1117" alt="GitHub Streak" />
 </p>
 
 ---
 
-## ✅ Open To
-- Cybersecurity internships & entry-level roles  
-- Security research & VAPT collaborations  
-- Open-source contributions  
-- Mentorship opportunities  
-
----
-
-<div align="center">
-Made with 🔐 by **Kartavya Joshi** | January 2026
-</div>
+<p align="center">
+  <i>"Resilience is not just defending against attacks—it is ensuring critical processes endure and recover seamlessly."</i>
+</p>
